@@ -16,3 +16,7 @@
 ## 🔧 Tools
 <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png">  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png">
 <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png">
+
+## 📊 My Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloreis08&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloreis08&layout=compact&&theme=radical)
